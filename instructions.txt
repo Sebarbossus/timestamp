@@ -1,0 +1,9 @@
+This app is intended to convert Unix time (standard for computers) into UTC time in US-format and viceversa.
+
+Instructions/How to use it:
+
+https://thisprojectsname/December%2015,%202015
+https://thisprojectsname/1450137600
+
+Example output:
+{ "unix": 1450137600, "natural": "December 15, 2015" }
